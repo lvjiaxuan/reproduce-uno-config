@@ -1,0 +1,8 @@
+{
+  "include": ["**/*.config.ts"],
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+  }
+}

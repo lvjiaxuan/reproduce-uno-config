@@ -1,0 +1,19 @@
+{
+  "private": false,
+  "name": "@lvjiaxuan/reproduce-uno-config",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "author": "lvjiaxuan <471501748@qq.com> (https://github.com/lvjiaxuan)",
+  "license": "MIT",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "@unocss/cli": "^0.55.2",
+    "typescript": "^5.1.6",
+    "unocss": "^0.55.2",
+    "vite": "^4.4.9"
+  }
+}
